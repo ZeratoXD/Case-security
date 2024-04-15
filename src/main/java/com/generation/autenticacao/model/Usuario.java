@@ -1,10 +1,11 @@
 package com.generation.autenticacao.model;
 
 
-class Jwt {
+public class Usuario {
 String name;
 String role;
 long seed;
+
 public String getName() {
 	return name;
 }
