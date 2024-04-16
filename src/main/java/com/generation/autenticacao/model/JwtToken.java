@@ -23,6 +23,8 @@ public class JwtToken {
 	public void setName(String name) {
 		this.name = name;
 	}
+    
+    
 
     
     
